@@ -1,10 +1,18 @@
-# Nimbl3 Growth
+<p align="center">
+  <img alt="Nimble logo" src="https://assets.nimblehq.co/logo/light/logo-light-text-320.png" />
+</p>
 
-Investment time/hacking sessions held every month at Nimbl3 🙌
+<p align="center">
+    <strong>Nimble Growth</strong>
+</p>
+
+---
+
+Investment time/hacking sessions held every month at Nimble 🙌
 
 ## Introduction
 
-Started in November 2016, Nimbl3 Growth is an event held every month allowing our team to:
+Started in November 2016, Nimble Growth is an event held every month allowing our team to:
 
 * Research new technologies or even new stacks
 * Improve our internal processes e.g. automating manual processes, decrease the time to start building a new application, 
@@ -42,19 +50,19 @@ e.g. Approved, Backlog (ready to go), In Progress, Done.
 
 ## License
 
-This project is Copyright (c) 2014-2018 Nimbl3 Ltd. It is free software,
+This project is Copyright (c) 2014-2018 Nimble. It is free software,
 and may be redistributed under the terms specified in the [LICENSE] file.
 
 [LICENSE]: /LICENSE
 
 ## About
 
-![Nimbl3](https://dtvm7z6brak4y.cloudfront.net/logo/logo-repo-readme.jpg)
+![Nimble](https://assets.nimblehq.co/logo/dark/logo-dark-text-160.png)
 
-This project is maintained and funded by Nimbl3 Ltd.
+This project is maintained and funded by Nimble.
 
 We love open source and do our part in sharing our work with the community!
-See [our other projects][oss] or [hire our team][hire] to help build your product.
+See [our other projects][community] or [hire our team][hire] to help build your product.
 
-[oss]: https://nimbl3.github.io/
-[hire]: https://nimbl3.com/
+[community]: https://github.com/nimblehq
+[hire]: https://nimblehq.co/
