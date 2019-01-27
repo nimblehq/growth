@@ -40,7 +40,7 @@ planning are encouraged so that everyone can hit the ground running as soon as t
 * Once a session has started, all code is pushed to public repositories on Github. 
 * At the end of the first half day, teams are encouraged to start working on their presentation to save precious time on the second day. 
 * The session wraps on Friday at 5 pm at which point we all gather to see the presentations of our teammates. 
-* Each project has a seven-minute/ten-minute presentation time.
+* Each project has a ten-minute presentation time.
 
 ![timeline](assets/trello.png)
 
@@ -50,7 +50,7 @@ e.g. Approved, Backlog (ready to go), In Progress, Done.
 
 ## License
 
-This project is Copyright (c) 2014-2018 Nimble. It is free software,
+This project is Copyright (c) 2014-2019 Nimble. It is free software,
 and may be redistributed under the terms specified in the [LICENSE] file.
 
 [LICENSE]: /LICENSE
