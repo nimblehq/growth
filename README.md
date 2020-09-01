@@ -8,7 +8,7 @@
 
 ---
 
-Investment time/hacking sessions held every month at Nimble 🙌
+Investment time/hacking sessions held every month at ![Nimble](https://nimblehq.co) 🙌
 
 ## Introduction
 
