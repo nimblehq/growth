@@ -8,50 +8,50 @@
 
 ---
 
-Investment time/hacking sessions held every month at [Nimble](https://nimblehq.co) 🙌
+Knowledge sharing and hacking sessions at [Nimble](https://nimblehq.co) 🙌
 
 ## Introduction
 
-Started in November 2016, Nimble Growth is an event held every month allowing our team to:
+Started in November 2016, Nimble Growth is an event now held every two months allowing the team to:
 
-* Research new technologies or even new stacks
-* Improve our internal processes e.g. automating manual processes, decrease the time to start building a new application, 
+- Research new technologies and tools.
+- Improve the internal engineering processes e.g. automating manual processes, decrease the time to start building a new application, 
 speeding up our CI/CD pipelines.
-* Work on non-client projects
-* Have fun! 🕺 💃
+- Work with team members they do not usually work with. This event is for all team members to join: developers, product managers, UX/UI designers, and operations associates.
+- Have fun! 🥳
 
-Each session lasts 1.5 days starting from Thursday mid-day until the following Friday (whole day). Our previous effort, 
-called Tech Wednesdays, had a shorter duration of 0.5 day which was too short. Strong of this experience we decided to 
-provide a larger block of time to achieve greater things.
+The repository contains all presentations for all sessions.
 
-This event is for all teammates to join: devs, PMs and designers!
+## How We Do It
 
-At the end of the session, we gather for a show and tell time! Each team or individual prepared a presentation to share 
-their achievements, struggles and what they have learnt. The repository contains all presentations for all sessions.
-
-## How we do it
+### Timeline
 
 ![timeline](assets/timeline.png)
 
-* Each project is validated **two weeks before** the session actually starts. This allows to perform research on topics 
-and feasibility.  
-* Once approved, each team/individual has an additional **two weeks to prepare** for the session. Additional research and 
-planning are encouraged so that everyone can hit the ground running as soon as the session starts 🏃‍. 
-* Once a session has started, all code is pushed to public repositories on Github. 
-* At the end of the first half day, teams are encouraged to start working on their presentation to save precious time on the second day. 
-* The session wraps on Friday at 5 pm at which point we all gather to see the presentations of our teammates. 
-* Each project has a ten-minute presentation time.
+- Each session spans eight weeks consisting in 1) two weeks to validate projects and 2) six weeks to work on projects.
+- Individuals must assemble a squad of 3-5 members and fill the roles of Product Manager, Team Lead, and Developers. The squad structure for Growth project is identical to client projects.
+- Squads can dedicate one block of 0.5 days every two weeks, thus have a total of three blocks of 0.5 days over six weeks.
+- All code is pushed to public repositories under the [Github organization of Nimble](https://github.com/nimblehq). 
+- The session wraps up on Friday at the end of the six-week cycle for Presentation Day. We all gather for a show and tell time! Each project squad has a ten-minute presentation time to share their achievements, struggles and what they have learnt.s
+
+### Project Board
 
 ![timeline](assets/trello.png)
 
-* We use a Trello board to manage topics and projects. 
-* The board is not only a repository of ideas for future topics or projects, but also where we manage the status of projects 
-e.g. Approved, Backlog (ready to go), In Progress, Done.
+- All projects are managed on Notion via a Kanban board.
+- The board is used to 1) track the project statuses for each session and 2) submit new project ideas for future sessions.
+
+## History
+
+Over the years, the format of the event has continously changed to fit the team's needs and size:
+
+- The event was first called Tech Wednesdays and was held twice a month on Wednesdays (hence the name 😉). It had a shorter duration of 0.5 day.
+- In its second iteration, the event was renamed to Nimble Growth and was held every month. Each session lasted 1.5 days starting from Thursday mid-day until the following Friday (whole day).
+- The current event format was launched in March 2020 and corresponds to Nimble Growth `2.0`. The same amount of time (1.5 days) is provided to each project but is spread over a period of six weeks instead of one block.
 
 ## License
 
-This project is Copyright (c) 2014-2019 Nimble. It is free software,
-and may be redistributed under the terms specified in the [LICENSE] file.
+This project is Copyright (c) 2014 and onwards Nimble. It is free software and may be redistributed under the terms specified in the [LICENSE] file.
 
 [LICENSE]: /LICENSE
 
